@@ -1,0 +1,4 @@
+Flask[async]
+metaapi-cloud-sdk
+tenacity
+gunicorn
